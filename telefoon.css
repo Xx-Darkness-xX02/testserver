@@ -1,0 +1,313 @@
+div#header {
+	background-color: crimson;
+	height: 150px;
+	width: 100%;
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+h1{
+	margin: 0;
+	display:flex;
+}
+
+nav{
+	background-color: #4c4c4c;
+	display: block;
+	}
+ul{
+	margin: 0;
+}
+
+li{
+	display: inline-block;
+	color: white;
+	margin: 0;
+	padding-right: 20px;
+}
+
+div#container{
+	background-color: #ede3dc;
+	height: 100%;
+	display: flex;
+}
+
+div#container2{
+	height: 600px;
+  width: 100%;
+	background-color: #ede3dc;
+}
+
+/* --------- article 1 */
+
+div#article{
+}
+
+div#kop1{
+	background-color: black;
+	height: 10px;
+	width: 160px;
+	border-top: 30px solid #ede3dc;
+	border-left: 20px solid #ede3dc;
+}
+div#plaat1{
+	background-color: #eaedf2;
+	height: 160px;
+	width: 160px;
+	margin-left: 20px;
+	margin-top: 15px;
+	margin-bottom: 9px;
+	border: solid 1px black;
+}
+
+/* ----- article 1/paragraph1*/
+div.tekst1{
+	background-color: grey;
+	width: 160px;
+	height: 7px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+
+div.tekst2{
+	background-color: grey;
+	width: 135px;
+	height: 7px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+
+div.tekst3{
+	background-color: grey;
+	width: 110px;
+	height: 7px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+
+div.tekst4{
+	background-color: grey;
+	width: 120px;
+	height: 7px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+
+div.tekst5{
+	background-color: grey;
+	width: 155px;
+	height: 7px;
+	margin-left: 20px;
+}
+
+/*---------------- einde article 1 ----------*/
+
+/* ------ article 2*/
+div#article2{
+  width: 179px;
+	border-top: 30px solid #ede3dc;
+	margin-left: 40px;
+
+}
+
+div#kop2{
+  background-color: black;
+  width: 90px;
+  height: 10px;
+
+}
+
+div#plaat2{
+	background-color: #eaedf2;
+	height: 160px;
+	width: 90px;
+	margin-left: 5px;
+	margin-top: 15px;
+	margin-bottom: 9px;
+	border: solid 1px black;
+}
+
+div#div1{
+	margin-top: 25px;
+}
+
+div#div1en2{
+	display: flex;
+}
+
+
+/*------ article2/paragraph 2*/
+div.tekst6{
+	background-color: grey;
+	width: 50px;
+	height: 7px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+
+div.tekst8{
+	background-color: grey;
+	width: 50px;
+	height: 7px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+
+div.tekst9{
+	background-color: grey;
+	width: 50px;
+	height: 7px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+
+div.tekst10{
+	background-color: grey;
+	width: 50px;
+	height: 7px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+
+div.tekst11{
+	background-color: grey;
+	width: 50px;
+	height: 7px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+
+div.tekst12{
+	background-color: grey;
+	width: 50px;
+	height: 7px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+
+div.tekst13{
+	background-color: grey;
+	width: 50px;
+	height: 7px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+
+div.tekst14{
+	background-color: grey;
+	width: 50px;
+	height: 7px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+
+div.tekst15{
+	background-color: grey;
+	width: 50px;
+	height: 7px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+
+div.tekst16{
+	background-color: grey;
+	width: 50px;
+	height: 7px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+
+div.tekst17{
+	background-color: grey;
+	width: 50px;
+	height: 7px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+
+div.tekst18{
+	background-color: grey;
+	width: 50px;
+	height: 7px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+
+div.tekst19{
+	background-color: grey;
+	width: 50px;
+	height: 7px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+
+div.tekst20{
+	background-color: grey;
+	width: 50px;
+	height: 7px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+
+div.tekst21{
+	background-color: grey;
+	width: 50px;
+	height: 7px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+
+div.tekst22{
+	background-color: grey;
+	width: 120px;
+	height: 7px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+
+div.tekst23{
+	background-color: grey;
+	width: 133px;
+	height: 7px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+
+div.tekst24{
+	background-color: grey;
+	width: 90px;
+	height: 7px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+
+/*------------ einde article2 -----------------*/
+
+/* ---------- breaking news -------------------*/
+div#breakingnews{
+	display: block;
+}
+
+h1.breaking{
+border-top: 40px solid #ede3dc;
+}
+
+div.lijn{
+	width: 100%;
+	height: 10px;
+	background: repeating-linear-gradient(
+		to right,
+		black,
+		black 15px,
+		yellow 15px,
+		yellow 30px
+		);
+
+}
+
+
+.lijn:after{
+
+}
